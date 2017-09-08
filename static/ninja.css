@@ -1,0 +1,16 @@
+body{
+    background-image: url("lol.jpg");
+    color:red;
+    text-shadow: 2px 1px black;
+    font-size: 2em;
+}
+form{
+    background-color:white;
+    width:200px;
+    padding:10px;
+    border-radius:10px
+}
+h5{
+    background-color:black;
+    width:300px
+}
